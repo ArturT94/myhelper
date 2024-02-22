@@ -1,0 +1,19 @@
+{
+  "name": "arturt94/helper",
+  "description": "Хелпер битрикс",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artur",
+      "email": "gunsmoke94@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "common\\": "common/classes/"
+    }
+  }
+}
