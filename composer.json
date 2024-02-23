@@ -4,7 +4,7 @@
   "license": "MIT",
   "type": "projects",
   "config": {
-    "vendor-dir": "local/"
+    "vendor-dir": "/local/"
   },
   "authors": [
     {
