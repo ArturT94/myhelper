@@ -3,6 +3,9 @@
   "description": "Хелпер битрикс",
   "license": "MIT",
   "type": "projects",
+  "config": {
+    "vendor-dir": "local/"
+  },
   "authors": [
     {
       "name": "Artur",
