@@ -8,8 +8,11 @@
       "email": "gunsmoke94@mail.ru"
     }
   ],
+  "config": {
+    "vendor-dir": "/local/php_interface/"
+  },
   "require": {
-
+    "php": ">=7.4"
   },
   "autoload": {
     "psr-4": {
